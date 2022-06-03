@@ -4,7 +4,7 @@
 - have a really basic understanding of python and js, mostly for discord bot stuff
 - a bit better at css/html but thats kinda useless these days
 
-- 📫 How to reach me tla#0001 if i have nitro but probably not lol
+- 📫 tla#2970 
 
 <!---
 tlanotyt/tlanotyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
